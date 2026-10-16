@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/FAQ-accordion-card/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/FAQ-accordion-card/)
 
 ## My process
 
